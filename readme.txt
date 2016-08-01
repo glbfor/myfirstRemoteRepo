@@ -3,3 +3,4 @@ git tracks changes.
 git tracks changes of files.
 git tracks changes of files2.
 @creat a new branch is quick
+@create a new branch is quick & simple
