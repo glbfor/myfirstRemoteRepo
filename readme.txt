@@ -6,3 +6,5 @@ git tracks changes of files2.
 @creating a new branch is quick and simple
 add dev to readme
 @a new line from another
+@a new line from another2
+@a new line from another2
